@@ -1,0 +1,13 @@
+#filter_value {
+    border: solid red 2px;
+}
+
+.changeData {
+     color: #fafafa;
+    background-color: green;
+}
+
+.filterData {
+    color: #fafafa;
+    background-color: green;
+}
