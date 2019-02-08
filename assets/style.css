@@ -1,0 +1,15 @@
+#filter_value {
+    border: solid black 2px;
+}
+
+.changeData {
+    color: #fafafa;
+    border-color: orange;
+    background-color: orange;
+}
+
+.filterData {
+    color: #fafafa;
+     border-color: orange;
+    background-color: orange;
+}
